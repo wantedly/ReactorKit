@@ -2,8 +2,6 @@
 sourcekitten-output.json
 docs/
 /.build
-/Packages
-**/xcuserdata
 Pods/
 Carthage/
 Examples/Examples.xcworkspace
