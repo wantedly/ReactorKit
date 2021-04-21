@@ -1,7 +1,6 @@
 .DS_Store
 sourcekitten-output.json
 docs/
-/.build
 Pods/
 Carthage/
 Examples/Examples.xcworkspace
