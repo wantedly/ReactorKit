@@ -3,4 +3,6 @@ sourcekitten-output.json
 docs/
 Pods/
 Carthage/
-Examples/Examples.xcworkspace
+Examples/
+**/xcuserdata
+DerivedData/
